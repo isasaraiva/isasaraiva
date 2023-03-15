@@ -1,6 +1,6 @@
 
   ## Hello i'm isabelle🐱‍🚀🖖
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 -  &#128104;&#8205;&#128187; FullStack Developer
 <div align="center">
   <a href="https://github.com/NatanMoura085">
