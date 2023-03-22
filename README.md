@@ -1,5 +1,5 @@
 
-  ## Hello i'm isabelle🐱‍🚀🖖
+  ## Hello i'm isabelle
 
 -  &#128104;&#8205;&#128187; FullStack Developer
 <div align="center">
